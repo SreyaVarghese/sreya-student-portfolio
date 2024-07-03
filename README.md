@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # personal-portfolio
 It provides the basic knowledge about me ,my dreams and my skills
 =======
@@ -73,3 +74,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 >>>>>>> d3f0dd8 (Portfolio  commit)
+=======
+PERSONAL-PORTFOLIO
+>>>>>>> c87892da2e27f92b63703bf0e9810bc4d895744c
