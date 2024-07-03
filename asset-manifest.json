@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/personal-portfolio/static/css/main.06f62c2e.css",
-    "main.js": "/personal-portfolio/static/js/main.b2bc3dcb.js",
-    "static/js/453.b21437c2.chunk.js": "/personal-portfolio/static/js/453.b21437c2.chunk.js",
-    "static/media/SREYA.jpeg": "/personal-portfolio/static/media/SREYA.e2379fb49d71135644db.jpeg",
-    "static/media/background.jpeg": "/personal-portfolio/static/media/background.351aa90e0b9241ea91a1.jpeg",
-    "index.html": "/personal-portfolio/index.html",
-    "main.06f62c2e.css.map": "/personal-portfolio/static/css/main.06f62c2e.css.map",
-    "main.b2bc3dcb.js.map": "/personal-portfolio/static/js/main.b2bc3dcb.js.map",
-    "453.b21437c2.chunk.js.map": "/personal-portfolio/static/js/453.b21437c2.chunk.js.map"
+    "main.css": "/sreya-student-portfolio/static/css/main.c032513b.css",
+    "main.js": "/sreya-student-portfolio/static/js/main.b33ce7b4.js",
+    "static/js/453.b21437c2.chunk.js": "/sreya-student-portfolio/static/js/453.b21437c2.chunk.js",
+    "static/media/SREYA.jpeg": "/sreya-student-portfolio/static/media/SREYA.e2379fb49d71135644db.jpeg",
+    "static/media/background.jpeg": "/sreya-student-portfolio/static/media/background.351aa90e0b9241ea91a1.jpeg",
+    "index.html": "/sreya-student-portfolio/index.html",
+    "main.c032513b.css.map": "/sreya-student-portfolio/static/css/main.c032513b.css.map",
+    "main.b33ce7b4.js.map": "/sreya-student-portfolio/static/js/main.b33ce7b4.js.map",
+    "453.b21437c2.chunk.js.map": "/sreya-student-portfolio/static/js/453.b21437c2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.06f62c2e.css",
-    "static/js/main.b2bc3dcb.js"
+    "static/css/main.c032513b.css",
+    "static/js/main.b33ce7b4.js"
   ]
 }
